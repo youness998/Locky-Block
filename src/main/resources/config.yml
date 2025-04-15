@@ -1,0 +1,15 @@
+
+default-luck: 0.5
+rewards:
+  money:
+    min: 100
+    max: 1000
+  items:
+    diamond:
+      name: DIAMOND
+      amount: 5
+      chance: 0.3
+    emerald:
+      name: EMERALD
+      amount: 3
+      chance: 0.4
