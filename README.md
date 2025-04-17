@@ -1,67 +1,35 @@
 # 🔒 Locky Block
 
-![Spigot Downloads](https://img.shields.io/badge/Spigot-Downloads-blue)
-![Spigot Rating](https://img.shields.io/badge/Rating-★★★★★-yellow)
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Java Version](https://img.shields.io/badge/Java-17%2B-blue)
+[![⬇️ Download](https://img.shields.io/badge/Download-LockyBlock.jar-blue)](https://github.com/youness998/Locky-Block/releases/latest/download/LockyBlock.jar)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.19.4-green)
+![Java](https://img.shields.io/badge/Java-8-yellow)
+![API](https://img.shields.io/badge/API-1.19-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Build-Stable-brightgreen)
 
-> Plugin per bloccare e sbloccare contenuti o funzionalità del server in modo semplice e personalizzabile.
-
----
-
-## 🔭 Compatibilità
-
-- Java: 17 o superiore
-- Minecraft: 1.8.x – 1.21.x
-- Backend supportati: Spigot, Paper, Purpur
-- Proxy supportati: BungeeCord, Waterfall, Velocity
-
-❗ Forge e Fabric **non** sono supportati.
+> Plugin Minecraft per bloccare contenuti, comandi o azioni in base a condizioni personalizzabili.  
+> Compatibile con Java 8 e Minecraft 1.19.4 (API 1.19).
 
 ---
 
-## 📦 Funzionalità principali
+## 🔧 Caratteristiche principali
 
-- Blocca comandi, messaggi, interazioni o sezioni del server
-- Sblocco basato su condizioni personalizzabili
-- Configurazione semplice tramite file YAML
-- Supporto PlaceholderAPI
-- API per integrazione con altri plugin
-
----
-
-## 🧪 Come si installa?
-
-1. Inserisci il file `.jar` nella cartella `plugins/`
-2. Riavvia o ricarica il server
-3. Modifica la configurazione secondo le tue esigenze
-4. Fatto! Il plugin è pronto all’uso
+- Blocca azioni o sezioni del gioco fino al soddisfacimento di una condizione
+- Personalizzabile tramite file di configurazione
+- Compatibile con Spigot / Paper / Purpur
+- Supporta eventi e placeholder
 
 ---
 
-## 📚 Documentazione
+## 📥 Come si installa?
 
-- Guida all’installazione
-- Esempi di configurazione
-- Uso dell’API
-- FAQ e risoluzione problemi
-
----
-
-## 🌍 Community
-
-Unisciti alla nostra community per supporto, suggerimenti, aggiornamenti e altro!
-
----
-
-## 👥 Autori e contributori
-
-Un enorme grazie a tutti coloro che hanno aiutato a sviluppare Locky Block!  
-Consulta la sezione dei contributori per vedere chi ha partecipato al progetto.
+1. Scarica il file `.jar` cliccando sul pulsante "Download" in alto
+2. Inserisci `LockyBlock.jar` nella cartella `plugins/` del tuo server
+3. Riavvia il server
+4. Configura tramite `config.yml`
 
 ---
 
 ## 📜 Licenza
 
-Questo progetto è distribuito sotto licenza **MIT**. Consulta il file `LICENSE` per i dettagli.
+Questo progetto è rilasciato sotto licenza **MIT**.
