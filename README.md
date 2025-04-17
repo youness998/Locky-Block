@@ -1,35 +1,36 @@
 # 🔒 Locky Block
 
-[![⬇️ Download](https://img.shields.io/badge/Download-luckyblock%2D1.0%2DSNAPSHOT%2Ejar-blue)](https://github.com/youness998/Locky-Block/releases/latest/download/luckyblock-1.0-SNAPSHOT.jar)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.19.4-green)
-![Java](https://img.shields.io/badge/Java-8-yellow)
-![API](https://img.shields.io/badge/API-1.19-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Build-Stable-brightgreen)
+[![Download Locky Block](https://img.shields.io/badge/Download-luckyblock%2D1.0%2DSNAPSHOT%2Ejar-blue?style=for-the-badge)](https://github.com/youness998/Locky-Block/releases/latest/download/luckyblock-1.0-SNAPSHOT.jar)
+[![Minecraft 1.19.4](https://img.shields.io/badge/Minecraft-1.19.4-green?style=for-the-badge)](https://www.minecraft.net/)
+[![Java 8](https://img.shields.io/badge/Java-8-yellow?style=for-the-badge)](https://www.oracle.com/java/)
+[![API 1.19](https://img.shields.io/badge/API-1.19-blue?style=for-the-badge)](https://hub.spigotmc.org/javadocs/bukkit/)
+[![License MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](LICENSE)
+[![Build Status](https://img.shields.io/badge/Build-Stable-brightgreen?style=for-the-badge)](https://github.com/youness998/Locky-Block/actions)
 
-> Plugin Minecraft per bloccare contenuti, comandi o azioni in base a condizioni personalizzabili.  
-> Compatibile con Java 8 e Minecraft 1.19.4 (API 1.19).
+> **Locky Block** è un plugin per **Minecraft** che ti permette di bloccare e sbloccare contenuti, azioni e comandi in base a condizioni personalizzabili.  
+> Compatibile con **Minecraft 1.19.4**, **Java 8** e l'**API 1.19**.
 
 ---
 
 ## 🔧 Caratteristiche principali
 
-- Blocca azioni o sezioni del gioco fino al soddisfacimento di una condizione
-- Personalizzabile tramite file di configurazione
-- Compatibile con Spigot / Paper / Purpur
-- Supporta eventi e placeholder
+- Blocca azioni e comandi del gioco fino al soddisfacimento di una condizione
+- Configurazione tramite file YAML semplice e intuitiva
+- Supporto per **Spigot**, **Paper**, **Purpur**
+- Integrazione con **PlaceholderAPI** e supporto per eventi
 
 ---
 
 ## 📥 Come si installa?
 
-1. Scarica il file `.jar` cliccando sul pulsante "Download" in alto
-2. Inserisci `luckyblock-1.0-SNAPSHOT.jar` nella cartella `plugins/` del tuo server
-3. Riavvia il server
-4. Configura tramite `config.yml`
+1. Clicca sul pulsante **"Download"** sopra per scaricare il file `.jar`.
+2. Copia `luckyblock-1.0-SNAPSHOT.jar` nella cartella `plugins/` del tuo server.
+3. Riavvia il server per caricare il plugin.
+4. Personalizza la configurazione nel file `config.yml` come desiderato.
 
 ---
 
 ## 📜 Licenza
 
-Questo progetto è rilasciato sotto licenza **MIT**.
+Questo progetto è distribuito sotto licenza **MIT**.  
+Consulta il file [LICENSE](LICENSE) per maggiori dettagli.
