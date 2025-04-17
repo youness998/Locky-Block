@@ -1,6 +1,6 @@
 # 🔒 Locky Block
 
-[![⬇️ Download](https://img.shields.io/badge/Download-LockyBlock.jar-blue)](https://github.com/youness998/Locky-Block/releases/latest/download/LockyBlock.jar)
+[![⬇️ Download](https://img.shields.io/badge/Download-luckyblock%2D1.0%2DSNAPSHOT%2Ejar-blue)](https://github.com/youness998/Locky-Block/releases/latest/download/luckyblock-1.0-SNAPSHOT.jar)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.19.4-green)
 ![Java](https://img.shields.io/badge/Java-8-yellow)
 ![API](https://img.shields.io/badge/API-1.19-blue)
@@ -24,7 +24,7 @@
 ## 📥 Come si installa?
 
 1. Scarica il file `.jar` cliccando sul pulsante "Download" in alto
-2. Inserisci `LockyBlock.jar` nella cartella `plugins/` del tuo server
+2. Inserisci `luckyblock-1.0-SNAPSHOT.jar` nella cartella `plugins/` del tuo server
 3. Riavvia il server
 4. Configura tramite `config.yml`
 
