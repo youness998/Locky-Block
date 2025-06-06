@@ -10,7 +10,7 @@ public class BlockChecker {
     }
     
     public static boolean isInProtectedRegion(Block block) {
-        // Implementazione per controllo regioni protette
+        
         return false;
     }
 }
